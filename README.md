@@ -1,7 +1,1 @@
-Project Requirements
-Python 3.x
-Pandas
-Numpy
-Openpyxl
-Xlrd
-OS library
+Project Requirements: python 3,pandas,numpy,openpyxl,xlrd,os library,program tested(pycharm)
