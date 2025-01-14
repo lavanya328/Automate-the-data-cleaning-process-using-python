@@ -1,4 +1,4 @@
-" " "Please create a python application that can take datasets and clean the data """
+" " " create a python application that can take datasets and clean the data """
 
 
 import pandas as pd
